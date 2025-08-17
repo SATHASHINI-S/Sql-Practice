@@ -40,3 +40,15 @@ select * from employees where title = 'Sales Representative';
 select * from orders where order_date > '1997-01-01';
 
 select * from suppliers where country = 'USA';
+
+
+Show all products where unit_price > 30 AND units_in_stock > 50.
+
+Show all customers from Germany OR France.
+
+Show all employees whose title is Sales Manager OR Vice President, Sales.
+
+Show all suppliers who are not from USA.
+
+Show all orders where freight > 100 AND ship_country = 'Brazil'.
+
