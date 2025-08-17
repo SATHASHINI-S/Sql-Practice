@@ -52,3 +52,4 @@ Show all suppliers who are not from USA.
 
 Show all orders where freight > 100 AND ship_country = 'Brazil'.
 
+select * from products where unit_price > 30 and units_in_stock > 50;
